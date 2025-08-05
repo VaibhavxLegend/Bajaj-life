@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+requests
+sentence-transformers
+pinecone-client
+llama-parse
+huggingface_hub
+langchain
+langchain-community
+langchain-core
+asyncpg
+python-dotenv
